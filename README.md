@@ -1,3 +1,7 @@
+# English Overview
+
+This repository contains the source code and documentation for Amirgh23's **jalali-date-picker** project. Follow the English sections and commands below for setup and usage.
+
 # تقویم جلالی انگولار
 
 یک کتابخانه انگولار کامل برای کار با تاریخ جلالی، شامل کامپوننت‌های تعاملی و پشتیبانی از تقویم قمری و میلادی.
@@ -130,3 +134,9 @@ ng test jalali-date-picker
 
 ## پیشنهادات و مشکلات
 لطفاً برای هرگونه پیشنهاد یا مشکلی در Issues репوی GitHub ما گزارش دهید.
+
+---
+
+## فارسی
+
+این مخزن شامل کد و مستندات پروژهٔ **jalali-date-picker** است. برای نصب، اجرا و جزئیات فنی، دستورهای بخش انگلیسی را دنبال کنید.
